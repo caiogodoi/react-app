@@ -1,2 +1,4 @@
 # react-app
-React-App
+React-App (em desenvolvimento)
+
+Cardápio para restaurante.
